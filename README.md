@@ -2,6 +2,9 @@
 
 Template and working directory for creating the proposal.
 
+[embed]https://github.com/shanto268/iris_hep/blob/master/proposal.pdf[/embed]
+
+
 ## Reference Resources:
 
 - https://iris-hep.org/assets/pdf/Fellow-Xiongfeng-Proposal.pdf
