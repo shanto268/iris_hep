@@ -2,7 +2,7 @@
 
 Template and working directory for creating the proposal.
 
-[embed]https://github.com/shanto268/iris_hep/blob/master/proposal.pdf[/embed]
+[link](https://github.com/shanto268/iris_hep/blob/master/proposal.pdf)
 
 
 ## Reference Resources:
