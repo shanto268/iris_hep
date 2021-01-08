@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tmpfile.aux
+The style file: /Users/sshanto/.vim/plugged/vimtex/autoload/vimtex/parser/vimcomplete.bst
+Database file #1: aip_jur30.bib
+Repeated entry---line 33 of file aip_jur30.bib
+ :     @article {
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 42 of file aip_jur30.bib
+ :     @article {
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 51 of file aip_jur30.bib
+ :     @article {
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 60 of file aip_jur30.bib
+ :     @article {
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 69 of file aip_jur30.bib
+ :     @article {
+ :               ,
+I'm skipping whatever remains of this entry
+You've used 2 entries,
+            650 wiz_defined-function locations,
+            267 strings with 1927 characters,
+and the built_in function-call counts, 353 in all, are:
+= -- 22
+> -- 27
+< -- 0
++ -- 10
+- -- 10
+* -- 34
+:= -- 74
+add.period$ -- 0
+call.type$ -- 2
+change.case$ -- 10
+chr.to.int$ -- 0
+cite$ -- 2
+duplicate$ -- 13
+empty$ -- 18
+format.name$ -- 11
+if$ -- 53
+int.to.chr$ -- 0
+int.to.str$ -- 0
+missing$ -- 0
+newline$ -- 4
+num.names$ -- 4
+pop$ -- 5
+preamble$ -- 0
+purify$ -- 9
+quote$ -- 0
+skip$ -- 8
+stack$ -- 0
+substring$ -- 10
+swap$ -- 3
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 8
+warning$ -- 0
+while$ -- 4
+width$ -- 0
+write$ -- 12
+(There were 5 error messages)
